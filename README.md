@@ -29,6 +29,7 @@ The assembly questions and bufferflow question require a VM to complete. The VM 
 You will need either Virtualbox or VMWare to run the VM.
 
 Username: ece-pulse
+
 Password: pulse
 
 ## Teams
