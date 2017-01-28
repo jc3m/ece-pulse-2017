@@ -29,7 +29,7 @@ Output:
 a: 1
 b: 2
 c: 3
-Result: 6
+Result: 5
 ```
 
 ## Note
