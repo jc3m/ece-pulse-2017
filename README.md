@@ -1,5 +1,20 @@
 # ECE Pulse Software Competition
 
+## Completed
+  * Algorithms
+    * ~~diameter~~
+    * ~~gcd~~
+    * tictactoe
+  * Assembly
+    * ~~func~~
+    * socket
+  * Data Structures
+    * ~~queue~~
+    * skiplists
+  * Security
+    * bufferoverflow
+    * ~~cipher~~
+
 ## Categories
 
 The competition will be broken down into the following categories: 
