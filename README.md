@@ -12,7 +12,7 @@
     * ~~queue~~
     * skiplists
   * Security
-    * bufferoverflow
+    * ~~bufferoverflow~~
     * ~~cipher~~
 
 ## Categories
