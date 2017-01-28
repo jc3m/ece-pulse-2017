@@ -7,7 +7,7 @@
     * tictactoe
   * Assembly
     * ~~func~~
-    * socket
+    * ~~socket~~
   * Data Structures
     * ~~queue~~
     * skiplists
