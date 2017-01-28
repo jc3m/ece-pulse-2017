@@ -1,3 +1,7 @@
+'''
+Look at the main function for testing the queue
+'''
+
 class queue:
   def __init__(self):
     self.inStack = []

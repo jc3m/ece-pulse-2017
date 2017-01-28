@@ -5,12 +5,3 @@ main.o: main.c
 
 TicTacToeWinCheck: main.o
 	gcc -std=c99 main.o -o TicTacToeWinCheck
-
-
-#CC = gcc
-#CFLAGS = -std=c99
-
-#main: main.c
-#     $(CC) -o TicTacToeWinCheck main.c
-
-#gcc -std=c99 main.c -o TicTacToeWinCheck
