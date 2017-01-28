@@ -38,7 +38,7 @@ You may do this individually, or in groups of size of 3 or fewer.
 
 ## Prizes
 
-* 1st Place: TBA
+* 1st Place: TBA (sponsored by TI)
 * 2nd Place: TBA
 * 3rd Place: TBA
 
